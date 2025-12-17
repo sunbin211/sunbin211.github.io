@@ -9,3 +9,7 @@ url: https://sunbin211.github.io
 # 可选，但建议加
 show_excerpts: false
 
+minima:
+  skin: classic
+
+
